@@ -40,4 +40,3 @@ print(f'5 al cuadrado es {5**2}')
 
 # No es necesario el ; al final de la linea, pero se puede usar para poner varias cosas en la misma
 x = 5; s = 6
-
